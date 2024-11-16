@@ -16,6 +16,7 @@ source('code/MyFunctions.R')
 funPower(2, 3)
 traceback()
 
+debug()
 ## Using line-by-line execution ----
 x = 2; y = 3
 funPower2 <- function(x, y){
